@@ -1,0 +1,6 @@
+*.csv
+data.zip
+/packages/mymemoize/mymemoize.db
+/.vscode
+*.tsv
+*.txt
